@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Peter, studying software development and enterprise computing in Australia. 
+I'm Peter, studying software development and enterprise computing in Australia (Brisbane).
 
 I'm trying to become better at backend programming. 
 
