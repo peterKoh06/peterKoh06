@@ -2,7 +2,13 @@
 
 I'm Peter, studying software development and enterprise computing in Australia (Brisbane).
 
-I'm trying to become better at backend programming. 
+I'm currently completing my internship at start up, also developing valuable skills beyond IT, including business, education, time management and communication between co workers.
+
+On the side, I recently started building "UniMarket", second hand marketplace app for ONLY university students.
+
+
+
+
 
 
 <!--
